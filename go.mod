@@ -1,4 +1,4 @@
-module github.com/tjfoc/gmtls
+module github.com/pedroalbanese/gmtls
 
 go 1.12
 
